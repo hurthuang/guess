@@ -18,4 +18,4 @@ while True:
 			print('太大了！')
 		if num < r:
 			print('太小了！')
-			print('你猜錯了', t, '次')
+		print('你猜錯了', t, '次')
